@@ -6,7 +6,7 @@ I'm a Computer Engineering student interested in software development, mobile ap
 
   ### 🅿️ParkMe
     Smart parking system that allows users to check the number of available parking spaces in real time.
-    <b>Technologies:</b> React Native, JavaScript, Firebase, Arduino Uno
+    Technologies: React Native, JavaScript, Firebase, Arduino Uno
 
 <!--
 **Vladimir-Eric/Vladimir-Eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
