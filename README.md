@@ -5,7 +5,7 @@ I'm a Computer Engineering student interested in software development, mobile ap
 ## Featured Projects
 
   ### 🅿️ParkMe
-    <p>Smart parking system that allows users to check the number of available parking spaces in real time.</p>
+    Smart parking system that allows users to check the number of available parking spaces in real time.
     <b>Technologies:</b> React Native, JavaScript, Firebase, Arduino Uno
 
 <!--
