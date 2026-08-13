@@ -20,6 +20,7 @@
   ### 🛠️ Technologies
   * JavaScript
   * React Native
+  * C
   * Java
   * Firebase
   * Arduino
